@@ -1,0 +1,55 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://i.pinimg.com/originals/1e/ef/c5/1eefc5567dc5c55f67ef6849b9235582.jpg");
+    color: white;
+    font-size: 20px;
+}
+
+.header {
+    background-image: url("https://www.csshint.com/wp-content/uploads/2020/01/CSS-Animated-Backgrounds-2.gif");
+    color: Orange;
+    font-size: 20px;
+    padding: 2px;
+    width: auto;
+    text-align: center;
+    margin: 0px;
+}
+
+.products {
+    margin: auto;
+    padding: auto;
+    width: auto;
+}
+
+.product_buttons_box {
+    float: left;
+    width: 200px;
+    padding: 2px;
+    border: 1px solid #000;
+    background-color: #5C5D61;
+    margin-right: 20px;
+}
+
+.product_display {
+    width: 100%;
+    padding: auto;
+    text-align: center;
+}
+
+.product_image {
+    height: 400px;
+    width: auto;
+}
+
+.product_text {
+    font-weight: bold;
+    color: white;
+    font-size:20px;
+    background-image: url("https://www.csshint.com/wp-content/uploads/2020/01/CSS-Animated-Backgrounds-2.gif");
+    text-align: center;
+}
+
+li {
+    margin: 6px;
+}
